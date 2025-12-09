@@ -11,7 +11,11 @@ __pycache__/
 
 # Ignore Jupyter checkpoints / notebook metadata (if any)
 .ipynb_checkpoints/
-MonthlyRFM_OnlineShopping.ipynb
+# No .ipynb
+*.ipynb
+# Except
+!MonthlyRFM.ipynb
+
 
 
 # Ignore data files, outputs, parquet/Excel/temporary files
