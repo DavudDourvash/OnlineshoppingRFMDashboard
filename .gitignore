@@ -1,0 +1,28 @@
+# Ignore IDE config and metadata
+.idea/
+*.iml
+
+# Ignore Python compiled/temporary, caches, checkpoints, notebook metadata
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.cache
+
+# Ignore Jupyter checkpoints / notebook metadata (if any)
+.ipynb_checkpoints/
+
+# Ignore data files, outputs, parquet/Excel/temporary files
+*.parquet
+*.xlsx
+~$*.xlsx
+*.csv
+*.log
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Optional: ignore compiled python files and build artifacts
+build/
+dist/
