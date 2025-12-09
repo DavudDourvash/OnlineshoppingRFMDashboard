@@ -1,5 +1,8 @@
 # Online Shopping RFM Dashboard
 
+> **⚠️ Project Status:**  
+> This project is **NOT completed** yet. Development is **ongoing**, and features, structure, and documentation will be updated continuously.
+
 ## Description
 
 This repository provides a data-driven dashboard to perform RFM (Recency, Frequency, Monetary) analysis on online shopping data.  
